@@ -43,7 +43,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3672A7" height="25" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black&color=white" height="25" />
 
+  <br>
+  <br>
+  <br>
+ 
+ ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffaa00,100:00e5ff&height=200&section=footer)
   
   
   
 </div>
+
+
+
