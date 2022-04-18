@@ -41,7 +41,7 @@
   🌱 Experienced in 🌱
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3672A7" height="25" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black&color=white" height="25" />
+  <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=black&color=white" height="25" /> -->
 
   <br>
   <br>
