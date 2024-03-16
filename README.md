@@ -27,8 +27,6 @@
 
 <!-- Spring Boot -->
 <img src="https://img.shields.io/badge/Spring_Boot-F9FCF3?style=for-the-badge&logo=spring-boot&logoColor=white&color=67AA3C" height="25" />
-<!-- Django -->
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=092E20" height="25" />
 
 ##### Database
 
