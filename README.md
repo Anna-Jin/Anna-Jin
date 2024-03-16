@@ -51,7 +51,8 @@
 ### ✨ Contact ✨
 
 <a href="https://annajin.tistory.com/"><img src="https://img.shields.io/badge/blog-FC6D26?style=for-the-badge&logo=tistory&logoColor=white&color=FC6D26" height="25" /></a>
-<a href="mailto:appltree066@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" height="25" /></a>
+<a href="https://annajin.tistory.com/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" height="25" /></a>
+
 
 <br>
 
